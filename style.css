@@ -1,0 +1,28 @@
+body{
+    background: url("one.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	display:grid;
+	}
+
+.display-4{
+	color:white;
+	text-align:center;
+
+}
+h1 p{
+	margin-top:175px;
+	font-size:50px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:block;
+  font-size: 16px;
+  margin:auto;
+
+}
